@@ -1,0 +1,18 @@
+<xml>
+	<node>
+		<tag k="addr:street" v="TestStrasse1" />
+		<tag k="addr:city" v="TestOrt1" />
+	</node>
+	<way>
+		<tag k="addr:street" v="TestStrasse2" />
+		<tag k="addr:city" v="TestOrt2" />
+	</way>
+	<way>
+		<tag k="addr:street" v="TestStrasse1" />
+		<tag k="addr:city" v="TestOrt3" />
+	</way>
+	<node>
+		<tag k="addr:street" v="TestStrasse3" />
+	</node>
+
+</xml>

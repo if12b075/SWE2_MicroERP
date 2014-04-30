@@ -1,0 +1,16 @@
+at.technikum.wien.winterhalderkreuzriegler.swe1
+at.technikum.wien.winterhalderkreuzriegler.swe1.common
+at.technikum.wien.winterhalderkreuzriegler.swe1.common.domain.enums
+at.technikum.wien.winterhalderkreuzriegler.swe1.common.domain.impl
+at.technikum.wien.winterhalderkreuzriegler.swe1.common.domain.interfaces
+at.technikum.wien.winterhalderkreuzriegler.swe1.common.helper
+at.technikum.wien.winterhalderkreuzriegler.swe1.helper
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins.adminplugin
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins.impl
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins.interfaces
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins.navi
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins.staticplugin
+at.technikum.wien.winterhalderkreuzriegler.swe1.plugins.temperatur
+at.technikum.wien.winterhalderkreuzriegler.swe1.testplugins
+at.technikum.wien.winterhalderkreuzriegler.swe1.webserver.impl
